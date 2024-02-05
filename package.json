@@ -1,7 +1,7 @@
 {
   "name": "juno_bot",
   "version": "1.0.0",
-  "homepage": "https://rdwivedi1.github.io/bot_juno/"
+  "homepage": "https://rdwivedi1.github.io/bot_juno/",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
