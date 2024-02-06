@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9109982ef106c1545dfc5c2757a3b4d",
+    "revision": "4fd4b5378ba11fbdb2ce05ff71e65fdf",
     "url": "/bot_juno/index.html"
   },
   {
-    "revision": "01705f27a1fac84112d8",
+    "revision": "1544e09daf21f0bee296",
     "url": "/bot_juno/static/css/main.c6b54ed6.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bot_juno/static/js/2.37c8826f.chunk.js"
   },
   {
-    "revision": "01705f27a1fac84112d8",
-    "url": "/bot_juno/static/js/main.a8dbfad0.chunk.js"
+    "revision": "1544e09daf21f0bee296",
+    "url": "/bot_juno/static/js/main.84bdad88.chunk.js"
   },
   {
     "revision": "eb1f02a2cb1c6ea979fa",

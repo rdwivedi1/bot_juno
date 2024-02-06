@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bot_juno/precache-manifest.39e86376b1c424814b997701a01d10f9.js"
+  "/bot_juno/precache-manifest.a257e2fa222d740e18f5f1e3ef48acfd.js"
 );
 
 self.addEventListener('message', (event) => {

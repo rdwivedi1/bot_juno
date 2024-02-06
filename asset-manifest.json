@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bot_juno/static/css/main.c6b54ed6.chunk.css",
-    "main.js": "/bot_juno/static/js/main.a8dbfad0.chunk.js",
-    "main.js.map": "/bot_juno/static/js/main.a8dbfad0.chunk.js.map",
+    "main.js": "/bot_juno/static/js/main.84bdad88.chunk.js",
+    "main.js.map": "/bot_juno/static/js/main.84bdad88.chunk.js.map",
     "runtime~main.js": "/bot_juno/static/js/runtime~main.1fa9abab.js",
     "runtime~main.js.map": "/bot_juno/static/js/runtime~main.1fa9abab.js.map",
     "static/js/2.37c8826f.chunk.js": "/bot_juno/static/js/2.37c8826f.chunk.js",
     "static/js/2.37c8826f.chunk.js.map": "/bot_juno/static/js/2.37c8826f.chunk.js.map",
     "index.html": "/bot_juno/index.html",
-    "precache-manifest.39e86376b1c424814b997701a01d10f9.js": "/bot_juno/precache-manifest.39e86376b1c424814b997701a01d10f9.js",
+    "precache-manifest.a257e2fa222d740e18f5f1e3ef48acfd.js": "/bot_juno/precache-manifest.a257e2fa222d740e18f5f1e3ef48acfd.js",
     "service-worker.js": "/bot_juno/service-worker.js",
     "static/css/main.c6b54ed6.chunk.css.map": "/bot_juno/static/css/main.c6b54ed6.chunk.css.map"
   }
